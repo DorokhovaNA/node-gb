@@ -1,0 +1,23 @@
+{
+  "name": "gb",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "helloworld.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DorokhovaNA/node-gb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DorokhovaNA/node-gb/issues"
+  },
+  "homepage": "https://github.com/DorokhovaNA/node-gb#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
