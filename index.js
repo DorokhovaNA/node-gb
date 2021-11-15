@@ -35,6 +35,5 @@ while (a <= b) {
 	} else {
 		console.log(colors.red("Простых чисел нет"));
 	}
-
 	a++;
 }
